@@ -1,5 +1,8 @@
 # 📊 Data Intelligence & Sales Analysis Dashboard
 
+video links:- 1.https://drive.google.com/file/d/1OelPkUMcrF4MSztwl44qzPD-xqfs4fmX/view?usp=drivesdk
+              2.https://drive.google.com/file/d/1yrYeCtfcP8iaOi-Csbohsp7S6j6BM07H/view?usp=drivesdk
+
 > **Transforming raw transaction data into meaningful business insights through advanced Excel analysis.**
 
 <p align="center">
